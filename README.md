@@ -1,4 +1,4 @@
-# Priority-Based Flight Route Optimizer
+# RouteOptima - Priority-Based Flight Route Optimizer
 
 ## Project Overview
 This project implements a Priority-Based Flight Route Optimizer that solves a modified version of the Traveling Salesman Problem (TSP) with priority constraints. The system helps find optimal routes between cities while considering priority levels, making it useful for scenarios like emergency response planning, supply chain optimization, or travel planning where some destinations have higher priorities than others.
