@@ -88,7 +88,7 @@ project/
 ### Backend Setup
 1. Clone the repository:
 ```bash
-git clone https://github.com/rohit1836/DAA-PBL.git
+git clone https://github.com/rohit1836/rootoptima.git
 cd priority-route-optimizer
 ```
 
